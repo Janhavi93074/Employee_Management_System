@@ -1,7 +1,3 @@
-Here’s a professional **README.md** draft for your Employee Management System project:
-
----
-
 # Employee Management System
 
 The **Employee Management System (EMS)** is a Spring Boot-based web application designed to manage employee data efficiently. It provides features to add, update, view, and delete employee records, with persistence handled via **Hibernate ORM** and **MySQL** as the database.
@@ -119,21 +115,5 @@ employee-management-system/
 * Add authentication & role-based access (Spring Security + JWT)
 * Create a frontend using React/Angular/Vue
 * Add department and project modules
-* Generate reports (PDF/Excel export)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with clear commit messages.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License – feel free to use and modify it.
-
----
-
-Do you also want me to make this README **developer-friendly with screenshots of API responses and a Postman collection** section, or keep it minimal?
+* Generate reports (PDF/Excel 
 
