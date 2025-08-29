@@ -54,7 +54,7 @@ employee-management-system/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone (https://github.com/Janhavi93074/Employee_Management_System.git)
    cd employee-management-system
    ```
 
@@ -63,14 +63,14 @@ employee-management-system/
    * Create a new database in MySQL:
 
      ```sql
-     CREATE DATABASE employee_db;
+     CREATE DATABASE employeemanagement;
      ```
    * Update `src/main/resources/application.properties`:
 
      ```properties
      spring.datasource.url=jdbc:mysql://localhost:3306/employee_db
      spring.datasource.username=root
-     spring.datasource.password=yourpassword
+     spring.datasource.password=root
      spring.jpa.hibernate.ddl-auto=update
      spring.jpa.show-sql=true
      spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
